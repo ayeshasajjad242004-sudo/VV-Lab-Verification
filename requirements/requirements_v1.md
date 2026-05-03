@@ -12,3 +12,6 @@
 2. Safety
 3. Reliability
 4. Traceability
+
+## Additional Requirement
+6. System should support multiple intersections
